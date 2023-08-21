@@ -1,0 +1,15 @@
+.bottomPara{
+    color: #c4c5d5;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.cardWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+}
+.actionButtonWrap{
+    margin-top: 40px;
+}
